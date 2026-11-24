@@ -1,0 +1,301 @@
+reminder_id,contact_id,reminder_title,reminder_date,reminder_time,status
+R001,C004,Sales Follow-up,2026-12-23,13:00,Pending
+R002,C008,Project Deadline,2026-11-28,10:00,Pending
+R003,C024,Interview Reminder,2026-12-26,15:30,Pending
+R004,C003,Invoice Payment Reminder,2026-11-15,12:00,Sent
+R005,C020,Sales Follow-up,2026-12-15,11:30,Pending
+R006,C021,Recruitment Drive,2026-12-28,12:00,Pending
+R007,C019,Customer Feedback Call,2026-12-11,08:30,Pending
+R008,C026,Weekly Report Submission,2026-12-31,15:30,Pending
+R009,C009,Team Stand-up,2026-12-04,11:30,Pending
+R010,C011,Candidate Screening,2026-12-31,09:30,Pending
+R011,C004,Policy Update Review,2026-12-07,14:30,Pending
+R012,C009,Python Training Session,2026-12-21,16:00,Pending
+R013,C004,Attendance Confirmation,2026-12-17,09:30,Pending
+R014,C010,Product Demo,2026-12-18,11:30,Pending
+R015,C003,Python Training Session,2026-12-28,12:00,Pending
+R016,C010,Interview Reminder,2027-01-01,12:00,Pending
+R017,C004,Attendance Confirmation,2027-01-07,13:00,Pending
+R018,C021,Product Demo,2026-12-12,11:00,Pending
+R019,C012,Invoice Payment Reminder,2026-12-06,13:00,Pending
+R020,C030,Monthly Admin Review,2026-12-27,11:00,Pending
+R021,C024,Workshop Reminder,2026-12-17,11:00,Pending
+R022,C013,Customer Feedback Call,2026-12-12,12:00,Pending
+R023,C011,Operations Review,2026-12-26,12:00,Pending
+R024,C002,Meeting Preparation,2027-01-04,15:00,Pending
+R025,C003,Invoice Payment Reminder,2026-11-30,14:00,Pending
+R026,C021,Support Follow-up,2026-11-26,15:00,Pending
+R027,C015,Team Stand-up,2026-12-24,13:00,Pending
+R028,C024,Quarterly Planning,2026-11-21,15:30,Sent
+R029,C013,Product Demo,2026-12-20,12:00,Pending
+R030,C003,Operations Review,2026-11-21,10:00,Failed
+R031,C026,Account Review,2026-11-22,09:30,Sent
+R032,C013,Feedback Session,2026-12-07,17:00,Pending
+R033,C018,HR Team Meeting,2026-11-29,10:00,Pending
+R034,C029,Customer Feedback Call,2026-12-26,14:00,Pending
+R035,C014,Weekly Report Submission,2026-11-20,16:00,Failed
+R036,C017,Performance Review,2026-11-13,17:00,Failed
+R037,C027,Onboarding Session,2026-11-19,10:30,Failed
+R038,C025,Weekly Report Submission,2026-12-06,17:00,Pending
+R039,C016,Sales Follow-up,2026-11-13,10:00,Failed
+R040,C029,Task Deadline,2026-12-06,12:00,Pending
+R041,C029,Interview Reminder,2026-11-16,09:30,Sent
+R042,C016,Monthly Admin Review,2026-12-29,10:30,Pending
+R043,C018,Weekly Report Submission,2026-11-21,13:00,Failed
+R044,C028,Account Review,2026-12-16,11:30,Pending
+R045,C025,Onboarding Session,2026-12-17,13:30,Pending
+R046,C022,Product Demo,2026-12-08,16:00,Pending
+R047,C015,Client Follow-up,2026-12-16,12:00,Pending
+R048,C003,Training Assessment,2026-11-27,08:30,Pending
+R049,C018,Webinar Reminder,2026-12-20,12:00,Pending
+R050,C023,Operations Review,2026-11-13,12:00,Sent
+R051,C028,Training Assessment,2026-11-17,09:30,Sent
+R052,C008,Customer Feedback Call,2026-12-15,16:30,Pending
+R053,C018,Project Deadline,2026-11-26,16:30,Pending
+R054,C026,Compliance Training,2026-11-28,15:30,Pending
+R055,C004,Candidate Screening,2026-11-25,15:30,Pending
+R056,C014,Recruitment Drive,2026-12-05,16:00,Pending
+R057,C024,Operations Review,2027-01-07,10:00,Pending
+R058,C024,Training Assessment,2026-11-16,10:00,Failed
+R059,C007,Onboarding Session,2026-11-28,16:00,Pending
+R060,C006,Customer Feedback Call,2026-11-21,16:00,Failed
+R061,C028,Monthly Admin Review,2026-11-28,16:00,Pending
+R062,C028,Candidate Screening,2027-01-03,09:00,Pending
+R063,C018,HR Team Meeting,2026-12-24,09:30,Pending
+R064,C028,Workshop Reminder,2026-12-31,11:00,Pending
+R065,C016,Compliance Training,2026-12-09,11:30,Pending
+R066,C013,Operations Review,2027-01-07,11:00,Pending
+R067,C001,Attendance Confirmation,2026-12-07,13:00,Pending
+R068,C026,Feedback Session,2027-01-02,13:30,Pending
+R069,C023,Support Follow-up,2026-12-10,10:30,Pending
+R070,C010,Invoice Payment Reminder,2026-11-25,09:00,Pending
+R071,C024,Operations Review,2026-12-20,14:00,Pending
+R072,C019,Compliance Training,2026-11-16,17:00,Sent
+R073,C017,Weekly Report Submission,2027-01-06,09:00,Pending
+R074,C003,Performance Review,2026-12-15,09:30,Pending
+R075,C003,Workshop Reminder,2026-12-21,15:00,Pending
+R076,C019,Python Training Session,2026-11-20,09:30,Sent
+R077,C022,Meeting Preparation,2026-12-09,13:00,Pending
+R078,C022,Meeting Preparation,2026-11-26,12:00,Pending
+R079,C013,Project Deadline,2026-11-29,13:30,Pending
+R080,C011,Monthly Admin Review,2026-12-12,08:30,Pending
+R081,C020,Candidate Screening,2026-12-12,09:30,Pending
+R082,C007,Quarterly Planning,2026-12-17,10:30,Pending
+R083,C029,Monthly Admin Review,2026-12-05,12:00,Pending
+R084,C010,Weekly Report Submission,2026-12-06,16:00,Pending
+R085,C018,Task Deadline,2027-01-05,17:00,Pending
+R086,C030,Candidate Screening,2026-11-13,10:30,Failed
+R087,C004,Candidate Screening,2026-11-29,10:30,Pending
+R088,C010,Invoice Payment Reminder,2026-11-30,14:00,Pending
+R089,C022,Quarterly Planning,2026-11-26,17:00,Pending
+R090,C009,Operations Review,2026-12-14,09:30,Pending
+R091,C014,Customer Feedback Call,2026-12-23,09:00,Pending
+R092,C025,Project Deadline,2026-11-13,13:00,Failed
+R093,C024,Team Check-in,2026-11-23,15:30,Pending
+R094,C001,Client Follow-up,2026-12-18,09:30,Pending
+R095,C029,Team Stand-up,2026-12-27,09:00,Pending
+R096,C012,Team Stand-up,2027-01-05,15:30,Pending
+R097,C010,Product Demo,2026-11-21,09:00,Sent
+R098,C007,Workshop Reminder,2026-12-05,10:00,Pending
+R099,C025,Recruitment Drive,2026-12-05,10:30,Pending
+R100,C028,Weekly Report Submission,2026-11-28,11:00,Pending
+R101,C001,Performance Review,2026-12-09,14:00,Pending
+R102,C030,Recruitment Drive,2027-01-02,12:00,Pending
+R103,C006,Candidate Screening,2026-11-30,15:00,Pending
+R104,C002,Compliance Training,2027-01-07,12:00,Pending
+R105,C027,Feedback Session,2026-11-25,14:30,Pending
+R106,C027,Webinar Reminder,2026-12-02,12:00,Pending
+R107,C013,Training Assessment,2026-11-14,13:00,Sent
+R108,C003,Customer Feedback Call,2027-01-07,14:30,Pending
+R109,C017,Appointment Reminder,2026-12-24,14:00,Pending
+R110,C029,Quarterly Planning,2026-11-14,11:00,Sent
+R111,C009,Python Training Session,2026-12-20,10:00,Pending
+R112,C014,Policy Update Review,2026-12-21,14:00,Pending
+R113,C020,Client Follow-up,2026-12-10,15:00,Pending
+R114,C007,Quarterly Planning,2026-12-19,09:00,Pending
+R115,C014,HR Team Meeting,2026-12-28,17:00,Pending
+R116,C018,Onboarding Session,2027-01-03,14:30,Pending
+R117,C003,Training Assessment,2026-12-10,14:00,Pending
+R118,C028,Client Follow-up,2026-12-25,13:30,Pending
+R119,C010,Recruitment Drive,2026-12-15,14:00,Pending
+R120,C023,Document Submission,2026-12-08,10:30,Pending
+R121,C014,Attendance Confirmation,2026-11-25,11:00,Pending
+R122,C019,Task Deadline,2026-12-22,15:00,Pending
+R123,C027,HR Team Meeting,2026-12-18,13:30,Pending
+R124,C007,Account Review,2026-12-01,14:00,Pending
+R125,C015,Team Check-in,2026-12-12,11:30,Pending
+R126,C016,Weekly Report Submission,2026-12-15,09:30,Pending
+R127,C017,Training Assessment,2026-12-01,09:30,Pending
+R128,C025,Workshop Reminder,2027-01-04,13:30,Pending
+R129,C026,Onboarding Session,2026-11-27,10:30,Pending
+R130,C008,Compliance Training,2026-11-14,09:30,Sent
+R131,C014,Onboarding Session,2026-12-12,15:00,Pending
+R132,C013,Workshop Reminder,2026-12-14,10:30,Pending
+R133,C023,HR Team Meeting,2026-12-24,10:00,Pending
+R134,C014,Webinar Reminder,2027-01-01,11:00,Pending
+R135,C023,Feedback Session,2027-01-03,09:00,Pending
+R136,C008,Client Follow-up,2026-12-18,16:00,Pending
+R137,C022,Meeting Preparation,2026-11-21,16:00,Failed
+R138,C027,Account Review,2026-12-22,16:00,Pending
+R139,C024,Compliance Training,2026-11-23,16:00,Pending
+R140,C025,Workshop Reminder,2026-11-29,13:00,Pending
+R141,C025,Support Follow-up,2027-01-01,12:00,Pending
+R142,C015,Monthly Admin Review,2026-11-30,13:30,Pending
+R143,C009,Training Assessment,2026-11-28,14:00,Pending
+R144,C003,Project Deadline,2026-12-17,10:30,Pending
+R145,C013,Team Stand-up,2026-11-27,11:30,Pending
+R146,C014,Training Assessment,2026-11-17,16:00,Failed
+R147,C002,Invoice Payment Reminder,2026-12-09,15:30,Pending
+R148,C029,Sales Follow-up,2026-12-07,15:00,Pending
+R149,C001,Policy Update Review,2026-12-13,13:30,Pending
+R150,C013,Recruitment Drive,2026-12-31,12:00,Pending
+R151,C008,Customer Feedback Call,2026-12-14,15:30,Pending
+R152,C001,Attendance Confirmation,2026-12-14,14:00,Pending
+R153,C022,Appointment Reminder,2026-12-25,11:00,Pending
+R154,C015,Project Deadline,2027-01-05,08:30,Pending
+R155,C019,Sales Follow-up,2026-12-08,09:30,Pending
+R156,C014,Project Deadline,2026-12-24,16:00,Pending
+R157,C002,Quarterly Planning,2026-11-24,15:00,Pending
+R158,C007,Feedback Session,2026-12-03,14:00,Pending
+R159,C025,Attendance Confirmation,2026-12-04,13:00,Pending
+R160,C027,Recruitment Drive,2026-12-31,13:00,Pending
+R161,C003,Compliance Training,2027-01-05,08:30,Pending
+R162,C018,Operations Review,2026-12-30,14:30,Pending
+R163,C021,Monthly Admin Review,2026-11-27,09:00,Pending
+R164,C001,Workshop Reminder,2026-12-31,11:30,Pending
+R165,C001,Team Stand-up,2027-01-05,12:00,Pending
+R166,C022,Client Follow-up,2026-11-21,11:30,Failed
+R167,C023,Quarterly Planning,2026-12-12,14:30,Pending
+R168,C020,Client Follow-up,2026-11-23,11:00,Pending
+R169,C004,Sales Follow-up,2026-12-02,13:30,Pending
+R170,C022,Attendance Confirmation,2026-12-19,15:00,Pending
+R171,C007,Monthly Admin Review,2026-12-28,12:00,Pending
+R172,C028,Client Follow-up,2026-11-19,09:00,Failed
+R173,C018,Account Review,2026-12-05,14:30,Pending
+R174,C001,Recruitment Drive,2026-11-17,16:30,Failed
+R175,C012,Feedback Session,2026-11-19,10:30,Failed
+R176,C006,Customer Feedback Call,2026-12-10,16:30,Pending
+R177,C014,Customer Feedback Call,2026-12-12,14:00,Pending
+R178,C008,Interview Reminder,2027-01-06,13:00,Pending
+R179,C008,Feedback Session,2026-12-11,15:00,Pending
+R180,C001,Support Follow-up,2026-12-04,14:00,Pending
+R181,C016,Invoice Payment Reminder,2026-11-24,14:30,Pending
+R182,C009,Training Assessment,2027-01-03,13:00,Pending
+R183,C023,Customer Feedback Call,2026-12-21,08:30,Pending
+R184,C007,Interview Reminder,2026-12-16,12:00,Pending
+R185,C014,Support Follow-up,2026-12-29,12:00,Pending
+R186,C016,Support Follow-up,2026-12-27,16:00,Pending
+R187,C001,Interview Reminder,2027-01-02,13:30,Pending
+R188,C013,Workshop Reminder,2026-11-27,13:30,Pending
+R189,C019,Product Demo,2026-12-25,16:30,Pending
+R190,C017,Policy Update Review,2026-12-18,15:30,Pending
+R191,C018,Training Assessment,2026-12-30,14:30,Pending
+R192,C015,Customer Feedback Call,2026-12-27,13:30,Pending
+R193,C008,Client Follow-up,2026-11-29,11:30,Pending
+R194,C004,Performance Review,2026-12-03,11:30,Pending
+R195,C024,Compliance Training,2026-11-26,13:00,Pending
+R196,C019,Document Submission,2026-12-29,10:00,Pending
+R197,C007,Document Submission,2027-01-05,12:00,Pending
+R198,C006,Task Deadline,2026-12-06,08:30,Pending
+R199,C018,Project Deadline,2026-12-28,13:00,Pending
+R200,C018,Document Submission,2026-11-15,10:30,Sent
+R201,C028,Support Follow-up,2026-12-23,10:00,Pending
+R202,C001,Document Submission,2027-01-07,16:30,Pending
+R203,C015,Training Assessment,2026-12-13,11:00,Pending
+R204,C028,Compliance Training,2026-11-16,10:00,Failed
+R205,C003,Appointment Reminder,2027-01-04,16:30,Pending
+R206,C005,Team Stand-up,2026-11-17,13:30,Sent
+R207,C004,Recruitment Drive,2026-11-18,12:00,Sent
+R208,C017,Attendance Confirmation,2027-01-01,16:00,Pending
+R209,C010,Account Review,2026-12-11,13:30,Pending
+R210,C020,Operations Review,2026-12-19,10:00,Pending
+R211,C007,Invoice Payment Reminder,2026-12-31,13:00,Pending
+R212,C003,Weekly Report Submission,2026-12-25,12:00,Pending
+R213,C018,Monthly Admin Review,2026-11-24,11:00,Pending
+R214,C015,Compliance Training,2026-11-13,13:30,Failed
+R215,C010,Document Submission,2026-11-15,16:00,Sent
+R216,C030,Quarterly Planning,2026-11-17,11:30,Sent
+R217,C004,Webinar Reminder,2026-12-10,10:30,Pending
+R218,C027,Team Stand-up,2026-11-30,09:30,Pending
+R219,C026,Task Deadline,2026-11-16,13:30,Sent
+R220,C004,Feedback Session,2026-12-11,13:30,Pending
+R221,C013,Customer Feedback Call,2026-12-27,17:00,Pending
+R222,C016,Team Check-in,2026-12-17,09:30,Pending
+R223,C002,Account Review,2026-12-21,14:00,Pending
+R224,C009,Sales Follow-up,2026-12-21,09:30,Pending
+R225,C022,Sales Follow-up,2026-11-27,13:00,Pending
+R226,C002,Performance Review,2026-12-19,16:30,Pending
+R227,C021,Team Check-in,2026-12-16,13:00,Pending
+R228,C019,Account Review,2026-11-24,16:30,Pending
+R229,C012,Recruitment Drive,2026-11-18,14:00,Failed
+R230,C022,Candidate Screening,2026-12-03,11:00,Pending
+R231,C014,Support Follow-up,2026-12-04,13:30,Pending
+R232,C013,Python Training Session,2026-12-25,16:00,Pending
+R233,C009,Meeting Preparation,2026-11-18,10:00,Failed
+R234,C013,HR Team Meeting,2027-01-01,16:00,Pending
+R235,C002,Onboarding Session,2026-12-09,17:00,Pending
+R236,C020,Support Follow-up,2026-12-06,16:00,Pending
+R237,C002,Invoice Payment Reminder,2026-12-31,13:00,Pending
+R238,C005,Document Submission,2026-12-18,16:00,Pending
+R239,C016,Client Follow-up,2026-12-27,08:30,Pending
+R240,C020,Workshop Reminder,2026-12-23,11:00,Pending
+R241,C018,HR Team Meeting,2026-12-02,15:30,Pending
+R242,C027,Client Follow-up,2026-11-18,16:00,Sent
+R243,C016,Document Submission,2026-11-20,17:00,Sent
+R244,C009,Recruitment Drive,2026-12-28,16:30,Pending
+R245,C008,Feedback Session,2026-12-13,10:30,Pending
+R246,C007,Project Deadline,2026-12-07,09:30,Pending
+R247,C025,Recruitment Drive,2026-11-30,14:00,Pending
+R248,C017,Customer Feedback Call,2027-01-02,08:30,Pending
+R249,C024,Task Deadline,2026-12-01,16:30,Pending
+R250,C005,Team Check-in,2027-01-07,16:30,Pending
+R251,C011,Attendance Confirmation,2026-12-05,16:00,Pending
+R252,C028,Onboarding Session,2026-12-03,12:00,Pending
+R253,C013,Webinar Reminder,2026-12-19,15:30,Pending
+R254,C024,Compliance Training,2026-11-15,15:00,Failed
+R255,C022,Team Stand-up,2026-12-07,16:30,Pending
+R256,C017,Training Assessment,2026-11-15,10:00,Sent
+R257,C028,Team Check-in,2027-01-07,10:00,Pending
+R258,C030,Feedback Session,2026-12-16,08:30,Pending
+R259,C005,Recruitment Drive,2026-12-29,10:30,Pending
+R260,C026,Quarterly Planning,2026-11-17,14:00,Failed
+R261,C023,Appointment Reminder,2026-12-22,09:30,Pending
+R262,C011,Attendance Confirmation,2027-01-06,14:00,Pending
+R263,C023,Support Follow-up,2026-12-23,09:00,Pending
+R264,C003,Workshop Reminder,2026-12-22,13:30,Pending
+R265,C024,Interview Reminder,2026-11-27,15:30,Pending
+R266,C015,Weekly Report Submission,2026-11-19,13:30,Sent
+R267,C011,Operations Review,2026-11-14,13:30,Sent
+R268,C012,Account Review,2026-12-05,10:30,Pending
+R269,C017,Recruitment Drive,2026-11-28,11:00,Pending
+R270,C006,Interview Reminder,2026-11-23,15:00,Pending
+R271,C022,Workshop Reminder,2026-12-22,16:30,Pending
+R272,C005,Webinar Reminder,2026-12-20,16:00,Pending
+R273,C009,Feedback Session,2026-12-23,13:00,Pending
+R274,C001,Feedback Session,2026-12-25,13:30,Pending
+R275,C018,Weekly Report Submission,2026-12-26,09:30,Pending
+R276,C012,Task Deadline,2026-12-11,15:30,Pending
+R277,C009,Feedback Session,2026-12-27,13:30,Pending
+R278,C013,Compliance Training,2026-11-25,10:00,Pending
+R279,C013,Policy Update Review,2026-11-28,13:30,Pending
+R280,C010,Sales Follow-up,2026-12-27,15:00,Pending
+R281,C001,Operations Review,2026-11-30,16:30,Pending
+R282,C029,Document Submission,2027-01-05,12:00,Pending
+R283,C026,Policy Update Review,2026-12-21,12:00,Pending
+R284,C007,Quarterly Planning,2026-12-23,10:30,Pending
+R285,C004,Python Training Session,2026-12-23,13:30,Pending
+R286,C015,Python Training Session,2027-01-02,14:30,Pending
+R287,C005,Interview Reminder,2026-12-29,13:30,Pending
+R288,C024,Recruitment Drive,2026-12-03,11:00,Pending
+R289,C005,Product Demo,2026-11-25,17:00,Pending
+R290,C030,Customer Feedback Call,2026-12-15,11:00,Pending
+R291,C030,Compliance Training,2026-11-29,13:30,Pending
+R292,C028,Training Assessment,2026-12-30,10:00,Pending
+R293,C003,Team Stand-up,2026-12-12,12:00,Pending
+R294,C022,Appointment Reminder,2027-01-07,14:30,Pending
+R295,C001,Quarterly Planning,2026-11-18,10:00,Failed
+R296,C012,Quarterly Planning,2026-12-12,15:00,Pending
+R297,C021,Product Demo,2027-01-04,10:00,Pending
+R298,C008,Compliance Training,2026-12-26,08:30,Pending
+R299,C029,Meeting Preparation,2026-12-22,12:00,Pending
+R300,C003,Feedback Session,2026-12-24,13:30,Pending
